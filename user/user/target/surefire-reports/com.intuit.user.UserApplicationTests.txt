@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.intuit.user.UserApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.422 s - in com.intuit.user.UserApplicationTests
